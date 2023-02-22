@@ -1,2 +1,32 @@
-# To_Do_List_React
- This project is a To Do List web application built with React JS. It allows users to create and manage a list of tasks they need to complete. The app features an intuitive user interface and is designed to be easy to use. It allows users to add, delete and mark tasks as completed. 
+# To Do List App 
+This is a React JS based To Do List app that helps you to manage your tasks and plan your day.
+
+## Features
+
+- Create multiple task lists 
+- Mark tasks as completed 
+- View completed tasks 
+
+## Installation 
+
+Clone or download this repository and install the necessary dependencies using npm. 
+
+```
+npm install 
+```
+
+Then, start the development server: 
+
+```
+npm start 
+```
+
+## Usage 
+
+Once you open the app, you will be able to create and manage your tasks. 
+
+- To add a new task, click the plus button on the left. 
+- To edit a task, click on the pencil icon next to it. 
+- To delete a task, click the trash can icon. 
+- To mark a task as completed, click the checkbox. 
+- To sort tasks, click the sort button on the left. 
